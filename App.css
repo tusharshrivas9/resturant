@@ -1,0 +1,27 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  overflow-x: hidden;
+}
+.name{
+  font-family: 'Dancing Script', cursive;
+  font-size: 60px;
+}
+.navbar-brand{
+  font-family: 'Dancing Script', cursive;
+  
+}
+.carousel-item img{
+width: 100%;
+height: 85vh;
+}
+.card{
+  box-shadow: 10px 5px 10px rgb(50, 48, 48);
+}
+.fa-solid{
+  color: black;
+  cursor: pointer;
+}
